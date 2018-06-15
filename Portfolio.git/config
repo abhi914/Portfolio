@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+[remote "origin"]
+	url = git@github.com:abhi914/Portfolio.git
+	fetch = +refs/*:refs/*
+	mirror = true
